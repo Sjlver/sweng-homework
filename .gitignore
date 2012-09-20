@@ -1,0 +1,8 @@
+.metadata/
+.classpath
+.project
+.settings
+bin/
+gen/
+local.properties
+workspace/
